@@ -3,6 +3,6 @@ Hi there! I'm AbdulWaris, a passionate MERN Stack developer with a knack for bui
 
 ## Skills & Technologies
 
-* **Frontend:** React, HTML, CSS, JavaScript
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB
+* **Frontend:** React, HTML, CSS, JavaScript, Bootstrap, Tailwind, Next JS
+* **Backend:** Node.js, Express.js, Firebase
+* **Database:** MongoDB, Firebase RTDB
